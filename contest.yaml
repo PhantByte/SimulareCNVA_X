@@ -1,0 +1,27 @@
+name: "SimulareCNVA_X"
+description: "Simulare OJI X - CNVA"
+tasks:
+  - "colonii"
+  - "criptare"
+  - "potcoave"
+  - "vis"
+users:
+  - username: "GeorgePahonie"
+    password: "LowestCommonAncestor"
+    ip: null  
+  - username: "DavidHaidau"
+    password: "SmenulLuiBatog"
+    ip: null  
+  - username: "DavidAntip"
+    password: "DivideEtImpera"
+    ip: null  
+  - username: "ErinComan"
+    password: "TwoPointers"
+    ip: null  
+  - username: "CosminToderita"
+    password: "SweepLine"
+    ip: null  
+  - username: "AndreiHriscu"
+    password: "Eratostene"
+    ip: null  
+token_mode: disabled
