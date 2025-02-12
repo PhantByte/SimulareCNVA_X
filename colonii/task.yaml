@@ -1,0 +1,9 @@
+name: "colonii"
+title: "Colonii"
+time_limit: 1.15
+memory_limit: 66
+n_input: 10
+public_testcases: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+infile: "amedia.in"
+outfile: "amedia.out"
+token_mode: infinite

@@ -3,6 +3,7 @@ description: "Simulare OJI X - CNVA"
 tasks:
   - "colonii"
   - "criptare"
+  - "mewtwo"
   - "potcoave"
   - "vis"
 users:
@@ -23,5 +24,8 @@ users:
     ip: null  
   - username: "AndreiHriscu"
     password: "Eratostene"
+    ip: null  
+  - username: "u1"
+    password: "p1"
     ip: null  
 token_mode: disabled
