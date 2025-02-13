@@ -1,11 +1,9 @@
 name: "SimulareCNVA_X"
 description: "Simulare OJI X - CNVA"
 tasks:
-  - "colonii"
   - "criptare"
   - "mewtwo"
   - "potcoave"
-  - "vis"
 users:
   - username: "GeorgePahonie"
     password: "LowestCommonAncestor"
